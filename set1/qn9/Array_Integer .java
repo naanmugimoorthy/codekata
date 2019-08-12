@@ -34,4 +34,4 @@ int k = 3;
 System.out.println(sumKRepeating(arr, n, k)); 
 } 
 } 
-© 2019 GitHub, Inc.
+
