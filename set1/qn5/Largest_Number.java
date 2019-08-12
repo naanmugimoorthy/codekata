@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.scanner;
 public class Largest_Number 
 {
